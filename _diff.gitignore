@@ -1,0 +1,20 @@
+--- .gitignore (原始)
+
+
++++ .gitignore (修改后)
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+```
